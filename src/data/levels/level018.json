@@ -1,0 +1,29 @@
+{
+  "id": 18,
+  "name": "Cursed Canyon",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 7
+    },
+    {
+      "type": "fast",
+      "count": 6
+    },
+    {
+      "type": "target",
+      "count": 3
+    }
+  ],
+  "waves": 2,
+  "targetScore": 4150,
+  "threeStarScore": 7800,
+  "timeLimit": 90,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

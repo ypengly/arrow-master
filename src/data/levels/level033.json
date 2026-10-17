@@ -1,0 +1,29 @@
+{
+  "id": 33,
+  "name": "Iron Tundra",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "count": 3
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2300,
+  "threeStarScore": 4300,
+  "timeLimit": 75,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 2,
+    "crates": 1,
+    "covers": 1
+  }
+}

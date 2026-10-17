@@ -1,0 +1,29 @@
+{
+  "id": 28,
+  "name": "Burning Pass",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 8
+    },
+    {
+      "type": "fast",
+      "count": 4
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3600,
+  "threeStarScore": 6800,
+  "timeLimit": 85,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 2,
+    "crates": 1,
+    "covers": 3
+  }
+}

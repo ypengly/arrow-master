@@ -1,0 +1,29 @@
+{
+  "id": 38,
+  "name": "Cursed Glacier",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 5
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "count": 6
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3350,
+  "threeStarScore": 6300,
+  "timeLimit": 80,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 1,
+    "covers": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 40,
+  "name": "Shadow Archer's Lair",
+  "environment": "castle",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "fast",
+      "count": 1
+    },
+    {
+      "type": "shield",
+      "count": 3
+    }
+  ],
+  "waves": 1,
+  "targetScore": 4300,
+  "threeStarScore": 8100,
+  "timeLimit": 210,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 1,
+    "covers": 3
+  },
+  "boss": "shadowArcher"
+}

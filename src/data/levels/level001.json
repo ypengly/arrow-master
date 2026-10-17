@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "name": "Training Grounds",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "target",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 1000,
+  "threeStarScore": 1900,
+  "timeLimit": 55,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  },
+  "hint": "Hold to charge, release to shoot. Aim for the head!"
+}

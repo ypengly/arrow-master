@@ -1,0 +1,29 @@
+{
+  "id": 22,
+  "name": "Silent Canyon",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 5
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2300,
+  "threeStarScore": 4300,
+  "timeLimit": 75,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 1,
+    "covers": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 9,
+  "name": "Forgotten Thicket",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 7
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2300,
+  "threeStarScore": 4300,
+  "timeLimit": 75,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

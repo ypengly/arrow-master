@@ -1,0 +1,33 @@
+{
+  "id": 79,
+  "name": "Royal Vault",
+  "environment": "dungeon",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 2
+    },
+    {
+      "type": "mage",
+      "count": 5
+    },
+    {
+      "type": "elite",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3100,
+  "threeStarScore": 5800,
+  "timeLimit": 75,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 48,
+  "name": "Burning Ramparts",
+  "environment": "castle",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "archer",
+      "count": 4
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2300,
+  "threeStarScore": 4300,
+  "timeLimit": 75,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

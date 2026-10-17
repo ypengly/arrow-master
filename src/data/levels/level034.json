@@ -1,0 +1,29 @@
+{
+  "id": 34,
+  "name": "Misty Glacier",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "count": 4
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2600,
+  "threeStarScore": 4900,
+  "timeLimit": 75,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 2,
+    "crates": 1,
+    "covers": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 31,
+  "name": "Ancient Ridge",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "count": 2
+    }
+  ],
+  "waves": 1,
+  "targetScore": 1800,
+  "threeStarScore": 3400,
+  "timeLimit": 60,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 1,
+    "crates": 1,
+    "covers": 1
+  },
+  "hint": "Shield bearers block frontal arrows: shoot over them."
+}

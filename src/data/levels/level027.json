@@ -1,0 +1,29 @@
+{
+  "id": 27,
+  "name": "Frozen Ridge",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 7
+    },
+    {
+      "type": "fast",
+      "count": 4
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3350,
+  "threeStarScore": 6300,
+  "timeLimit": 85,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 2,
+    "crates": 1,
+    "covers": 2
+  }
+}

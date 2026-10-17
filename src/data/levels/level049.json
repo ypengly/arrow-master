@@ -1,0 +1,29 @@
+{
+  "id": 49,
+  "name": "Forgotten Keep",
+  "environment": "castle",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "archer",
+      "count": 5
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2600,
+  "threeStarScore": 4900,
+  "timeLimit": 75,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

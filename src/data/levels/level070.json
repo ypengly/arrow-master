@@ -1,0 +1,34 @@
+{
+  "id": 70,
+  "name": "Dark Mage Supreme's Lair",
+  "environment": "volcano",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 1
+    },
+    {
+      "type": "shield",
+      "count": 1
+    },
+    {
+      "type": "armored",
+      "count": 1
+    },
+    {
+      "type": "elite",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 3500,
+  "threeStarScore": 6600,
+  "timeLimit": 205,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  },
+  "boss": "darkMage"
+}

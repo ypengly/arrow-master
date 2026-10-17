@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "name": "Golden Glade",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 5
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 1,
+  "targetScore": 1800,
+  "threeStarScore": 3400,
+  "timeLimit": 65,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 78,
+  "name": "Cursed Catacombs",
+  "environment": "dungeon",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 2
+    },
+    {
+      "type": "mage",
+      "count": 4
+    },
+    {
+      "type": "elite",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2850,
+  "threeStarScore": 5400,
+  "timeLimit": 75,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

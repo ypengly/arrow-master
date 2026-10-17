@@ -1,0 +1,33 @@
+{
+  "id": 68,
+  "name": "Burning Caldera",
+  "environment": "volcano",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "armored",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 3
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2600,
+  "threeStarScore": 4900,
+  "timeLimit": 70,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

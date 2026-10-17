@@ -1,0 +1,30 @@
+{
+  "id": 50,
+  "name": "War Chief's Lair",
+  "environment": "castle",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 1
+    },
+    {
+      "type": "shield",
+      "count": 1
+    },
+    {
+      "type": "archer",
+      "count": 2
+    }
+  ],
+  "waves": 1,
+  "targetScore": 3500,
+  "threeStarScore": 6600,
+  "timeLimit": 205,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  },
+  "boss": "warChief"
+}

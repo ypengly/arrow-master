@@ -1,0 +1,29 @@
+{
+  "id": 37,
+  "name": "Lost Tundra",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 5
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "shield",
+      "count": 5
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3100,
+  "threeStarScore": 5800,
+  "timeLimit": 80,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 1,
+    "covers": 2
+  }
+}

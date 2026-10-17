@@ -1,0 +1,34 @@
+{
+  "id": 61,
+  "name": "Crimson Colonnade",
+  "environment": "ruins",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "armored",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 2050,
+  "threeStarScore": 3800,
+  "timeLimit": 60,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 1,
+    "crates": 2,
+    "covers": 1
+  },
+  "hint": "Elites hide behind cover and hit hard."
+}

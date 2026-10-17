@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "name": "Stone Giant's Lair",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    }
+  ],
+  "waves": 1,
+  "targetScore": 3500,
+  "threeStarScore": 6600,
+  "timeLimit": 205,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  },
+  "boss": "stoneGiant"
+}

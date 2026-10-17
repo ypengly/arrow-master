@@ -1,0 +1,25 @@
+{
+  "id": 7,
+  "name": "Frozen Clearing",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 6
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 1,
+  "targetScore": 2050,
+  "threeStarScore": 3800,
+  "timeLimit": 65,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 80,
+  "name": "Demon Knight's Lair",
+  "environment": "dungeon",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 1
+    },
+    {
+      "type": "archer",
+      "count": 1
+    },
+    {
+      "type": "mage",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 3800,
+  "threeStarScore": 7200,
+  "timeLimit": 205,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  },
+  "boss": "demonKnight"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 24,
+  "name": "Golden Dunes",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 6
+    },
+    {
+      "type": "fast",
+      "count": 3
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2850,
+  "threeStarScore": 5400,
+  "timeLimit": 80,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 1,
+    "crates": 1,
+    "covers": 2
+  }
+}

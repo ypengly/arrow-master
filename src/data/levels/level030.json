@@ -1,0 +1,26 @@
+{
+  "id": 30,
+  "name": "Alpha Beast's Lair",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "fast",
+      "count": 2
+    }
+  ],
+  "waves": 1,
+  "targetScore": 4050,
+  "threeStarScore": 7600,
+  "timeLimit": 210,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 1,
+    "covers": 3
+  },
+  "boss": "alphaBeast"
+}

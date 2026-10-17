@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "name": "Broken Clearing",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "target",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 1300,
+  "threeStarScore": 2400,
+  "timeLimit": 60,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

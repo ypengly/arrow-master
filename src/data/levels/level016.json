@@ -1,0 +1,29 @@
+{
+  "id": 16,
+  "name": "Sunlit Dunes",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 6
+    },
+    {
+      "type": "fast",
+      "count": 5
+    },
+    {
+      "type": "target",
+      "count": 3
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3600,
+  "threeStarScore": 6800,
+  "timeLimit": 85,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 20,
+  "name": "Dark Knight's Lair",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "fast",
+      "count": 3
+    }
+  ],
+  "waves": 1,
+  "targetScore": 4300,
+  "threeStarScore": 8100,
+  "timeLimit": 210,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  },
+  "boss": "darkKnight"
+}

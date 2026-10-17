@@ -1,0 +1,29 @@
+{
+  "id": 23,
+  "name": "Broken Mesa",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 5
+    },
+    {
+      "type": "fast",
+      "count": 3
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2600,
+  "threeStarScore": 4900,
+  "timeLimit": 80,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 1,
+    "crates": 1,
+    "covers": 1
+  }
+}

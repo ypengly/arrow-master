@@ -1,0 +1,33 @@
+{
+  "id": 65,
+  "name": "Shattered Lava Fields",
+  "environment": "volcano",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "armored",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2300,
+  "threeStarScore": 4300,
+  "timeLimit": 70,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 2,
+    "crates": 2,
+    "covers": 2
+  }
+}

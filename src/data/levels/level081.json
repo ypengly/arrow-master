@@ -1,0 +1,46 @@
+{
+  "id": 81,
+  "name": "Crimson Depths",
+  "environment": "dungeon",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "fast",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 3
+    },
+    {
+      "type": "armored",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 2
+    },
+    {
+      "type": "mage",
+      "count": 2
+    }
+  ],
+  "waves": 3,
+  "targetScore": 4650,
+  "threeStarScore": 8800,
+  "timeLimit": 90,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 1,
+    "crates": 2,
+    "covers": 1
+  },
+  "hint": "Mixed squads: prioritise the dangerous ones."
+}

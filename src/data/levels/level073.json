@@ -1,0 +1,33 @@
+{
+  "id": 73,
+  "name": "Iron Lava Fields",
+  "environment": "volcano",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 2
+    },
+    {
+      "type": "mage",
+      "count": 3
+    },
+    {
+      "type": "elite",
+      "count": 1
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2300,
+  "threeStarScore": 4300,
+  "timeLimit": 70,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

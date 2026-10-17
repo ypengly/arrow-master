@@ -1,0 +1,29 @@
+{
+  "id": 14,
+  "name": "Misty Canyon",
+  "environment": "desert",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 5
+    },
+    {
+      "type": "fast",
+      "count": 4
+    },
+    {
+      "type": "target",
+      "count": 3
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3100,
+  "threeStarScore": 5800,
+  "timeLimit": 85,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

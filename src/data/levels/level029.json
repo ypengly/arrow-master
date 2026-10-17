@@ -1,0 +1,29 @@
+{
+  "id": 29,
+  "name": "Forgotten Tundra",
+  "environment": "snow",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 8
+    },
+    {
+      "type": "fast",
+      "count": 5
+    },
+    {
+      "type": "target",
+      "count": 2
+    }
+  ],
+  "waves": 2,
+  "targetScore": 3900,
+  "threeStarScore": 7400,
+  "timeLimit": 85,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 3,
+    "crates": 1,
+    "covers": 3
+  }
+}

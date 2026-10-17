@@ -1,0 +1,33 @@
+{
+  "id": 72,
+  "name": "Wild Caldera",
+  "environment": "volcano",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 2
+    },
+    {
+      "type": "mage",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 2050,
+  "threeStarScore": 3800,
+  "timeLimit": 60,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  }
+}

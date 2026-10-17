@@ -1,0 +1,29 @@
+{
+  "id": 12,
+  "name": "Wild Glade",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "fast",
+      "count": 3
+    },
+    {
+      "type": "target",
+      "count": 3
+    }
+  ],
+  "waves": 2,
+  "targetScore": 2600,
+  "threeStarScore": 4900,
+  "timeLimit": 80,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  }
+}

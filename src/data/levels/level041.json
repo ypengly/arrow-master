@@ -1,0 +1,30 @@
+{
+  "id": 41,
+  "name": "Crimson Keep",
+  "environment": "castle",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "archer",
+      "count": 2
+    }
+  ],
+  "waves": 1,
+  "targetScore": 1800,
+  "threeStarScore": 3400,
+  "timeLimit": 60,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 1,
+    "crates": 2,
+    "covers": 1
+  },
+  "hint": "Enemy archers shoot back. Watch your health!"
+}

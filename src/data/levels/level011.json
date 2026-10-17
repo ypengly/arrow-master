@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "name": "Ancient Clearing",
+  "environment": "forest",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "fast",
+      "count": 2
+    },
+    {
+      "type": "target",
+      "count": 3
+    }
+  ],
+  "waves": 1,
+  "targetScore": 2050,
+  "threeStarScore": 3800,
+  "timeLimit": 65,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 0,
+    "crates": 0,
+    "covers": 0
+  },
+  "hint": "Moving targets and fast runners: lead your shots."
+}

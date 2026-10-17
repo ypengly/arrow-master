@@ -1,0 +1,46 @@
+{
+  "id": 90,
+  "name": "King of Shadows's Lair",
+  "environment": "temple",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 1
+    },
+    {
+      "type": "fast",
+      "count": 1
+    },
+    {
+      "type": "shield",
+      "count": 1
+    },
+    {
+      "type": "archer",
+      "count": 1
+    },
+    {
+      "type": "armored",
+      "count": 2
+    },
+    {
+      "type": "elite",
+      "count": 1
+    },
+    {
+      "type": "mage",
+      "count": 1
+    }
+  ],
+  "waves": 1,
+  "targetScore": 4550,
+  "threeStarScore": 8600,
+  "timeLimit": 205,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 3
+  },
+  "boss": "kingOfShadows"
+}

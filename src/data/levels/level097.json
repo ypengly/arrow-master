@@ -1,0 +1,45 @@
+{
+  "id": 97,
+  "name": "Lost Terrace",
+  "environment": "temple",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 4
+    },
+    {
+      "type": "fast",
+      "count": 4
+    },
+    {
+      "type": "shield",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 4
+    },
+    {
+      "type": "armored",
+      "count": 3
+    },
+    {
+      "type": "elite",
+      "count": 3
+    },
+    {
+      "type": "mage",
+      "count": 3
+    }
+  ],
+  "waves": 3,
+  "targetScore": 6200,
+  "threeStarScore": 11700,
+  "timeLimit": 95,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 3,
+    "crates": 2,
+    "covers": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 84,
+  "name": "Golden Cellars",
+  "environment": "dungeon",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "fast",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 3
+    },
+    {
+      "type": "archer",
+      "count": 3
+    },
+    {
+      "type": "armored",
+      "count": 3
+    },
+    {
+      "type": "elite",
+      "count": 2
+    },
+    {
+      "type": "mage",
+      "count": 2
+    }
+  ],
+  "waves": 3,
+  "targetScore": 4900,
+  "threeStarScore": 9300,
+  "timeLimit": 90,
+  "specialAmmo": 14,
+  "props": {
+    "barrels": 2,
+    "crates": 2,
+    "covers": 2
+  }
+}

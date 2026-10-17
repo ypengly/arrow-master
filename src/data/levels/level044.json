@@ -1,0 +1,29 @@
+{
+  "id": 44,
+  "name": "Golden Ramparts",
+  "environment": "castle",
+  "enemies": [
+    {
+      "type": "basic",
+      "count": 3
+    },
+    {
+      "type": "shield",
+      "count": 2
+    },
+    {
+      "type": "archer",
+      "count": 3
+    }
+  ],
+  "waves": 1,
+  "targetScore": 2050,
+  "threeStarScore": 3800,
+  "timeLimit": 60,
+  "specialAmmo": 8,
+  "props": {
+    "barrels": 2,
+    "crates": 2,
+    "covers": 2
+  }
+}
